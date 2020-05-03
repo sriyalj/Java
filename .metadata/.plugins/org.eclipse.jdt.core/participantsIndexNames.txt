@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/home/sriyal/eclipse-workspace/Java/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1948595272.index
+/SampleWS/src
+/home/sriyal/eclipse-workspace/Java/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3023655227.index
+/SampleWS/src

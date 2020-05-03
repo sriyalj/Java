@@ -1,0 +1,285 @@
+2020-05-03 17:43:32,887 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-03 17:44:28,486 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.AcrLifecycleMapping lifecycle mapping for MavenProject: SampleWC:SampleWC:0.0.1-SNAPSHOT @ /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC/pom.xml.
+2020-05-03 17:44:32,305 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.AcrLifecycleMapping lifecycle mapping for MavenProject: JerseyCalcClient:JerseyCalcClient:0.0.1-SNAPSHOT @ /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/pom.xml.
+2020-05-03 17:44:35,625 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:35,753 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 17:44:35,764 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:35,764 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-03 17:44:36,851 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:36,903 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 17:44:36,911 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:36,911 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-03 17:44:37,930 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JerseyCalcService:JerseyCalcService:0.0.1-SNAPSHOT @ /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/pom.xml.
+2020-05-03 17:44:40,408 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:40,409 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-03 17:44:40,411 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:40,412 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-03 17:44:40,983 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:40,983 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-03 17:44:40,985 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:40,986 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-03 17:44:41,248 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:41,253 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 17:44:41,258 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:41,259 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC/src/test/resources
+2020-05-03 17:44:41,680 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: View:SampleWS:0.0.1-SNAPSHOT @ /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/pom.xml.
+2020-05-03 17:44:42,229 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:42,232 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 17:44:42,233 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:42,234 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 17:44:44,005 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:44,008 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 17:44:44,012 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:44,013 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC/src/test/resources
+2020-05-03 17:44:44,323 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:44,326 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 17:44:44,331 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:44,332 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 17:44:45,360 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:45,361 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 17:44:45,362 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:44:45,363 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC/src/test/resources
+2020-05-03 17:45:08,673 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-03 17:45:08,765 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: View:SampleWS:0.0.1-SNAPSHOT @ /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/pom.xml.
+2020-05-03 17:45:08,833 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleWS/src
+2020-05-03 17:45:08,834 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /SampleWS/src/test/java because it overlaps with /SampleWS/src
+2020-05-03 17:45:08,985 [Worker-8: Updating Maven Project] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure SampleWS
+org.eclipse.m2e.wtp.MarkedException: Unable to configure SampleWS
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:101) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:70) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:122) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$2(ProjectConfigurationManager.java:509) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:503) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:441) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:356) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1369) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:355) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:79) ~[org.eclipse.m2e.core.ui_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:138) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97) ~[na:na]
+	... 16 common frames omitted
+2020-05-03 17:45:09,194 [Worker-8: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SampleWS
+2020-05-03 17:45:09,199 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-05-03 17:45:09,500 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:45:09,501 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 17:45:09,503 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:45:09,503 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 17:45:09,504 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SampleWS
+2020-05-03 17:45:09,504 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SampleWS
+2020-05-03 17:45:09,537 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:46:14,771 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-03 17:46:14,824 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: View:SampleWS:0.0.1-SNAPSHOT @ /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/pom.xml.
+2020-05-03 17:46:15,031 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleWS/src
+2020-05-03 17:46:15,031 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /SampleWS/src/test/java because it overlaps with /SampleWS/src
+2020-05-03 17:46:15,065 [Worker-15: Updating Maven Project] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure SampleWS
+org.eclipse.m2e.wtp.MarkedException: Unable to configure SampleWS
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:101) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:70) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:122) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$2(ProjectConfigurationManager.java:509) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:503) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:441) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:356) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1369) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:355) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:79) ~[org.eclipse.m2e.core.ui_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:138) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97) ~[na:na]
+	... 16 common frames omitted
+2020-05-03 17:46:15,145 [Worker-15: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SampleWS
+2020-05-03 17:46:15,147 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-05-03 17:46:15,464 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:46:15,465 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 17:46:15,466 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:46:15,467 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 17:46:15,467 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SampleWS
+2020-05-03 17:46:15,467 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SampleWS
+2020-05-03 17:46:15,475 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 17:46:21,334 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-05-03 17:46:34,243 [Worker-15: Launching SampleWS] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS
+2020-05-03 17:46:34,244 [Worker-15: Launching SampleWS] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-05-03 18:07:48,477 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 18:07:48,523 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 18:07:48,529 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 18:07:48,530 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 18:07:54,110 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 18:07:54,110 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-03 18:07:54,111 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 18:07:54,112 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-03 18:07:54,124 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 18:07:54,125 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 18:07:54,127 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 18:07:54,127 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 18:08:44,877 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-05-03 18:08:44,942 [Worker-13: Launching SampleWS] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS
+2020-05-03 18:08:44,942 [Worker-13: Launching SampleWS] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-05-03 18:09:05,486 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 18:09:05,488 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 18:09:05,493 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 18:09:05,495 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 18:09:41,373 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-03 18:09:41,482 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.AcrLifecycleMapping lifecycle mapping for MavenProject: SampleWC:SampleWC:0.0.1-SNAPSHOT @ /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC/pom.xml.
+2020-05-03 18:09:41,557 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleWC/appClientModule
+2020-05-03 18:09:41,557 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /SampleWC/appClientModule overlaps with sources folder /SampleWC/appClientModule
+2020-05-03 18:09:41,558 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleWC/src/test/java
+2020-05-03 18:09:41,630 [Worker-22: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SampleWC
+2020-05-03 18:09:41,631 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-05-03 18:09:41,935 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 18:09:41,936 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 18:09:41,942 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 18:09:41,943 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC/src/test/resources
+2020-05-03 18:09:56,695 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-05-03 18:10:32,247 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 18:10:32,247 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 18:10:32,248 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 18:10:32,249 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 18:10:52,566 [Worker-22: Launching Executing clean in _home_sriyal_eclipse-workspace_Java_Servlets_Simple Calc_SampleWS] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS
+2020-05-03 18:10:52,567 [Worker-22: Launching Executing clean in _home_sriyal_eclipse-workspace_Java_Servlets_Simple Calc_SampleWS] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-05-03 18:10:54,203 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 18:10:54,203 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 18:10:54,204 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 18:10:54,205 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 18:10:54,205 [Worker-22: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SampleWS
+2020-05-03 18:10:54,205 [Worker-22: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SampleWS
+2020-05-03 18:10:54,211 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:47:10,337 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-03 20:47:10,415 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: View:SampleWS:0.0.1-SNAPSHOT @ /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/pom.xml.
+2020-05-03 20:47:10,652 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleWS/src
+2020-05-03 20:47:10,653 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /SampleWS/src/test/java because it overlaps with /SampleWS/src
+2020-05-03 20:47:11,628 [Worker-33: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SampleWS
+2020-05-03 20:47:11,642 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-05-03 20:47:12,068 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:47:12,069 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 20:47:12,078 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:47:12,078 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 20:47:12,079 [Worker-34: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SampleWS
+2020-05-03 20:47:12,079 [Worker-34: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SampleWS
+2020-05-03 20:47:12,093 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:47:26,292 [Worker-33: Launching Executing clean in _home_sriyal_eclipse-workspace_Java_Servlets_Simple Calc_SampleWS] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS
+2020-05-03 20:47:26,292 [Worker-33: Launching Executing clean in _home_sriyal_eclipse-workspace_Java_Servlets_Simple Calc_SampleWS] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-05-03 20:47:28,109 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:47:28,111 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 20:47:28,114 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:47:28,116 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 20:47:28,118 [Worker-37: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SampleWS
+2020-05-03 20:47:28,119 [Worker-37: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SampleWS
+2020-05-03 20:47:28,129 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:47:35,419 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-05-03 20:47:35,487 [Worker-28: Launching SampleWS] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS
+2020-05-03 20:47:35,487 [Worker-28: Launching SampleWS] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-05-03 20:48:47,232 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:48:47,233 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 20:48:47,255 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:48:47,256 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC/src/test/resources
+2020-05-03 20:49:57,913 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-03 20:49:57,964 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.AcrLifecycleMapping lifecycle mapping for MavenProject: SampleWC:SampleWC:0.0.1-SNAPSHOT @ /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC/pom.xml.
+2020-05-03 20:49:58,172 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleWC/appClientModule
+2020-05-03 20:49:58,172 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /SampleWC/appClientModule overlaps with sources folder /SampleWC/appClientModule
+2020-05-03 20:49:58,173 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleWC/src/test/java
+2020-05-03 20:49:58,291 [Worker-28: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SampleWC
+2020-05-03 20:49:58,292 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-05-03 20:49:58,470 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:49:58,471 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 20:49:58,473 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:49:58,473 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC/src/test/resources
+2020-05-03 20:50:00,682 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:50:00,682 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 20:50:00,683 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:50:00,684 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 20:52:15,299 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-03 20:52:15,329 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: View:SampleWS:0.0.1-SNAPSHOT @ /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/pom.xml.
+2020-05-03 20:52:15,530 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SampleWS/src
+2020-05-03 20:52:15,530 [Worker-38: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /SampleWS/src/test/java because it overlaps with /SampleWS/src
+2020-05-03 20:52:15,743 [Worker-38: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SampleWS
+2020-05-03 20:52:15,745 [Worker-38: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-05-03 20:52:16,182 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:52:16,183 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 20:52:16,185 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:52:16,186 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 20:52:16,186 [Worker-39: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SampleWS
+2020-05-03 20:52:16,186 [Worker-39: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SampleWS
+2020-05-03 20:52:16,195 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:52:29,334 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-05-03 20:52:29,433 [Worker-39: Launching SampleWS] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS
+2020-05-03 20:52:29,433 [Worker-39: Launching SampleWS] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-05-03 20:52:49,302 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-05-03 20:52:49,356 [Worker-40: Launching SampleWC] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC
+2020-05-03 20:52:49,356 [Worker-40: Launching SampleWC] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-05-03 20:54:14,674 [Worker-38: Launching Executing clean in _home_sriyal_eclipse-workspace_Java_Servlets_Simple Calc_SampleWC] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC
+2020-05-03 20:54:14,674 [Worker-38: Launching Executing clean in _home_sriyal_eclipse-workspace_Java_Servlets_Simple Calc_SampleWC] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-05-03 20:54:16,885 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:54:16,886 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 20:54:16,888 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:54:16,889 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC/src/test/resources
+2020-05-03 20:56:35,734 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-05-03 20:56:35,809 [Worker-37: Launching SampleWC] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC
+2020-05-03 20:56:35,809 [Worker-37: Launching SampleWC] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-05-03 20:59:02,433 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:59:02,434 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 20:59:02,436 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 20:59:02,437 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 23:31:36,504 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-03 23:31:43,739 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 23:31:43,741 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-03 23:31:43,744 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 23:31:43,745 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-03 23:31:45,813 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 23:31:45,815 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 23:31:45,820 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 23:31:45,836 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 23:38:52,738 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 23:38:52,739 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 23:38:52,743 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 23:38:52,744 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 23:39:31,616 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 23:39:31,617 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 23:39:31,635 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 23:39:31,635 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 23:42:06,108 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 23:42:06,109 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 23:42:06,123 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 23:42:06,124 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 23:46:30,940 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-05-03 23:46:31,090 [Worker-26: Launching SampleWS] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS
+2020-05-03 23:46:31,091 [Worker-26: Launching SampleWS] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-05-03 23:53:28,936 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 23:53:28,937 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 23:53:28,939 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 23:53:28,939 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 23:53:42,668 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 23:53:42,669 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-03 23:53:42,670 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-03 23:53:42,671 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-03 23:53:59,130 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-05-03 23:53:59,252 [Worker-29: Launching SampleWC] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC
+2020-05-03 23:53:59,252 [Worker-29: Launching SampleWC] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
