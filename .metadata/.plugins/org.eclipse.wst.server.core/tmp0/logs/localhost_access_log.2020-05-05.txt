@@ -1,0 +1,6 @@
+127.0.0.1 - - [05/May/2020:14:50:38 +0300] "GET /JerseyCalcService/rest/view/12/2/LQ== HTTP/1.1" 200 30
+127.0.0.1 - - [05/May/2020:16:03:58 +0300] "GET /JerseyCalcService/rest/view/12/2/Kw== HTTP/1.1" 406 846
+127.0.0.1 - - [05/May/2020:16:04:10 +0300] "GET /JerseyCalcService/rest/view/12/2/Kw== HTTP/1.1" 200 26
+127.0.0.1 - - [05/May/2020:17:21:06 +0300] "GET /JerseyCalcService/rest/view/12/2/Kw== HTTP/1.1" 200 90
+127.0.0.1 - - [05/May/2020:17:21:26 +0300] "GET /JerseyCalcService/rest/view/12/2.5/LQ== HTTP/1.1" 200 33
+127.0.0.1 - - [05/May/2020:17:30:38 +0300] "GET /JerseyCalcService/rest/view/12/2/LQ== HTTP/1.1" 200 90

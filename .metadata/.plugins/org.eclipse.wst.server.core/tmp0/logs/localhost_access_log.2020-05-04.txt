@@ -1,0 +1,11 @@
+127.0.0.1 - - [04/May/2020:20:36:44 +0300] "GET / HTTP/1.1" 404 709
+127.0.0.1 - - [04/May/2020:20:36:45 +0300] "GET /SampleWS/ HTTP/1.1" 500 1182
+127.0.0.1 - - [04/May/2020:20:37:06 +0300] "GET /SampleWS/view?FirstNumber=12&SecondNumber=2&Operation=Kw== HTTP/1.1" 200 52
+127.0.0.1 - - [04/May/2020:21:15:49 +0300] "GET / HTTP/1.1" 404 709
+127.0.0.1 - - [04/May/2020:21:15:49 +0300] "GET /JerseyCalcService/ HTTP/1.1" 404 731
+127.0.0.1 - - [04/May/2020:21:17:43 +0300] "GET /JerseyCalcService/rest/view/12/2/Kw== HTTP/1.1" 200 26
+127.0.0.1 - - [04/May/2020:21:18:02 +0300] "GET /JerseyCalcService/rest/view/12/2/LQ== HTTP/1.1" 200 30
+127.0.0.1 - - [04/May/2020:21:18:21 +0300] "GET /JerseyCalcService/rest/view/12/2/Lw== HTTP/1.1" 200 28
+127.0.0.1 - - [04/May/2020:21:21:07 +0300] "GET /JerseyCalcService/rest/view/12/3/Kg== HTTP/1.1" 200 32
+127.0.0.1 - - [04/May/2020:21:21:18 +0300] "GET /JerseyCalcService/rest/view/12/5/JQ== HTTP/1.1" 200 25
+127.0.0.1 - - [04/May/2020:21:21:27 +0300] "GET /JerseyCalcService/rest/view/12/3/bA== HTTP/1.1" 500 5838

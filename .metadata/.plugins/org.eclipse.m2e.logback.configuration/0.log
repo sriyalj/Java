@@ -283,3 +283,211 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2020-05-03 23:53:59,130 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
 2020-05-03 23:53:59,252 [Worker-29: Launching SampleWC] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC
 2020-05-03 23:53:59,252 [Worker-29: Launching SampleWC] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-05-04 20:36:23,331 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-04 20:36:30,734 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 20:36:30,739 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-04 20:36:30,750 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 20:36:30,751 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-04 20:36:31,361 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 20:36:31,362 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-04 20:36:31,364 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 20:36:31,364 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-04 20:36:32,558 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 20:36:32,559 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-04 20:36:32,561 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 20:36:32,562 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC/src/test/resources
+2020-05-04 20:36:32,859 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 20:36:32,859 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-04 20:36:32,861 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 20:36:32,862 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-04 20:39:21,093 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 20:39:21,094 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-04 20:39:21,097 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 20:39:21,097 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-04 20:39:39,249 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 20:39:39,250 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-04 20:39:39,253 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 20:39:39,253 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-04 20:39:44,277 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 20:39:44,278 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-04 20:39:44,280 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 20:39:44,280 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-04 21:01:01,555 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 21:01:01,555 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-04 21:01:01,557 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 21:01:01,558 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-04 21:01:20,943 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 21:01:20,943 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-04 21:01:20,945 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 21:01:20,945 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-04 21:12:52,211 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-04 21:12:52,605 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: JerseyCalcService:JerseyCalcService:0.0.1-SNAPSHOT @ /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/pom.xml.
+2020-05-04 21:12:52,998 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JerseyCalcService/src
+2020-05-04 21:12:52,998 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JerseyCalcService/src/test/java because it overlaps with /JerseyCalcService/src
+2020-05-04 21:12:53,497 [Worker-25: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JerseyCalcService
+2020-05-04 21:12:53,499 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-05-04 21:12:54,017 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 21:12:54,018 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-04 21:12:54,020 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 21:12:54,021 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-04 21:12:54,021 [Worker-24: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JerseyCalcService
+2020-05-04 21:12:54,022 [Worker-24: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JerseyCalcService
+2020-05-04 21:12:54,059 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 21:13:44,811 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-05-04 21:14:24,864 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-05-04 21:15:03,835 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-05-04 21:15:03,937 [Worker-21: Launching JerseyCalcService] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService
+2020-05-04 21:15:03,938 [Worker-21: Launching JerseyCalcService] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-05-04 21:15:33,752 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 21:15:33,754 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-04 21:15:33,756 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 21:15:33,756 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-04 21:15:46,932 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 21:15:46,936 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-04 21:15:46,947 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 21:15:46,947 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-04 21:16:05,160 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-05-04 21:16:27,056 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-04 21:16:27,340 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.AcrLifecycleMapping lifecycle mapping for MavenProject: JerseyCalcClient:JerseyCalcClient:0.0.1-SNAPSHOT @ /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/pom.xml.
+2020-05-04 21:16:27,589 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JerseyCalcClient/appClientModule
+2020-05-04 21:16:27,590 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /JerseyCalcClient/appClientModule overlaps with sources folder /JerseyCalcClient/appClientModule
+2020-05-04 21:16:27,590 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JerseyCalcClient/src/test/java
+2020-05-04 21:16:27,692 [Worker-30: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JerseyCalcClient
+2020-05-04 21:16:27,695 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-05-04 21:16:28,071 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 21:16:28,072 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-04 21:16:28,075 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-04 21:16:28,075 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-04 21:16:57,583 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-05-04 21:16:57,609 [Worker-24: Launching JerseyCalcClient] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient
+2020-05-04 21:16:57,609 [Worker-24: Launching JerseyCalcClient] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-05-05 14:50:43,980 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 14:50:43,980 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-05 14:50:43,982 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 14:50:43,982 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-05 14:51:17,636 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 14:51:17,636 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-05 14:51:17,638 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 14:51:17,638 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-05 14:53:34,185 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 14:53:34,188 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 14:53:34,193 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 14:53:34,193 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-05 15:14:54,533 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 15:14:54,534 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-05 15:14:54,535 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 15:14:54,536 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-05 15:15:30,372 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 15:15:30,373 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-05 15:15:30,374 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 15:15:30,374 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-05 15:17:03,409 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 15:17:03,409 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-05 15:17:03,410 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 15:17:03,411 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-05 15:24:22,158 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 15:24:22,159 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 15:24:22,160 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 15:24:22,161 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-05 15:50:58,051 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 15:50:58,052 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 15:50:58,054 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 15:50:58,054 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-05 16:02:08,843 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-05-05 16:02:08,883 [Worker-3: Launching JerseyCalcClient] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient
+2020-05-05 16:02:08,883 [Worker-3: Launching JerseyCalcClient] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-05-05 16:03:19,660 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 16:03:19,662 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:03:19,664 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 16:03:19,665 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-05 16:03:20,932 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 16:03:20,933 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:03:20,934 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 16:03:20,935 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-05 16:03:24,268 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-05-05 16:03:24,315 [Worker-3: Launching JerseyCalcClient] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient
+2020-05-05 16:03:24,315 [Worker-3: Launching JerseyCalcClient] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-05-05 16:05:24,635 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 16:05:24,635 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-05 16:05:24,637 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 16:05:24,637 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-05 16:07:17,888 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 16:07:17,888 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:07:17,890 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 16:07:17,890 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-05 17:27:34,645 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 17:27:34,646 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:27:34,647 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 17:27:34,647 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-05 17:28:58,549 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 17:28:58,550 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:28:58,552 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 17:28:58,553 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-05 17:30:12,753 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 17:30:12,754 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:30:12,755 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 17:30:12,756 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-05 17:30:20,245 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 17:30:20,247 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:30:20,249 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 17:30:20,249 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-05 17:33:05,703 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 17:33:05,703 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-05 17:33:05,705 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-05 17:33:05,705 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-06 16:48:32,795 [Worker-100: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 16:48:32,795 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-06 16:48:32,797 [Worker-100: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 16:48:32,797 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-06 16:49:18,143 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 16:49:18,144 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-06 16:49:18,145 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 16:49:18,146 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-06 16:55:17,676 [Worker-104: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 16:55:17,677 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-06 16:55:17,679 [Worker-104: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 16:55:17,679 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-06 16:57:04,726 [Worker-104: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 16:57:04,727 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 16:57:04,729 [Worker-104: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 16:57:04,730 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-06 16:57:53,531 [Worker-104: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 16:57:53,533 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 16:57:53,535 [Worker-104: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 16:57:53,536 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-06 17:07:26,827 [Worker-106: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 17:07:26,828 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-06 17:07:26,830 [Worker-106: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 17:07:26,831 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-06 17:21:10,504 [Worker-109: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 17:21:10,506 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/main/resources
+2020-05-06 17:21:10,512 [Worker-109: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 17:21:10,514 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWS/src/test/resources
+2020-05-06 17:22:52,352 [Worker-109: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 17:22:52,355 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-06 17:22:52,359 [Worker-109: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 17:22:52,361 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/Servlets/Simple Calc/SampleWC/src/test/resources
+2020-05-06 18:48:51,620 [Worker-130: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 18:48:51,654 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 18:48:51,659 [Worker-130: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 18:48:51,661 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-06 18:49:49,222 [Worker-128: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 18:49:49,224 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-06 18:49:49,225 [Worker-128: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 18:49:49,226 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-06 18:50:07,357 [Worker-130: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 18:50:07,357 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-06 18:50:07,361 [Worker-130: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 18:50:07,361 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
+2020-05-06 18:51:02,163 [Worker-128: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 18:51:02,164 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 18:51:02,165 [Worker-128: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 18:51:02,165 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-06 18:51:26,320 [Worker-128: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 18:51:26,320 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-06 18:51:26,322 [Worker-128: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 18:51:26,322 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcClient/src/test/resources
+2020-05-06 18:52:39,867 [Worker-131: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 18:52:39,868 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/main/resources
+2020-05-06 18:52:39,870 [Worker-131: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-05-06 18:52:39,870 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sriyal/eclipse-workspace/Java/JAX-RS/JAX-RS Calc/JerseyCalcService/src/test/resources
